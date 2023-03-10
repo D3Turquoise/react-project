@@ -1,0 +1,15 @@
+h1 {
+  color: red;
+}
+
+.project {
+  margin: 15px;
+}
+
+.project-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
